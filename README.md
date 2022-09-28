@@ -24,16 +24,15 @@
 
 ## Screenshots
 
-![App Screenshot](/images/img1%20(2).png)
+![1](https://user-images.githubusercontent.com/36689521/192768810-12440c43-bb9d-4f02-abe8-177261dda8fb.png)
 
-![App Screenshot](/images/img1%20(3).png)
+![2](https://user-images.githubusercontent.com/36689521/192768858-e76603c5-1dfb-41d7-8284-31dafd1e6deb.png)
 
-![App Screenshot](/images/img1%20(4).png)
+![3](https://user-images.githubusercontent.com/36689521/192768881-87f5e894-07bc-452a-961e-2a710691770a.png)
 
-![App Screenshot](/images/img1%20(5).png)
+![4](https://user-images.githubusercontent.com/36689521/192768909-a678262c-67b6-43a3-82b1-4e2c0e1ca2d3.png)
 
-![App Screenshot](/images/img1%20(7).png)
+![5](https://user-images.githubusercontent.com/36689521/192768953-6ad38927-5c84-4df4-972d-8ddcf249baf8.png)
 
-![App Screenshot](/images/img1%20(8).png)
 
 
